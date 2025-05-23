@@ -1,8 +1,16 @@
 TASK-4
-# AIR-QUALITY-MONITOR
+# 🌍 AIR-QUALITY-MONITOR
 IoT Air Quality Monitoring System that measures PM2.5 and CO2 levels, displays live data, and shows historical trends on a cloud dashboard
 
+ 📦 Features
 
+- Measures **PM2.5** and **CO2** levels in real-time
+- Displays **live metrics** on a cloud dashboard (ThingSpeak or Blynk)
+- **Graphs historical trends** for air quality monitoring
+- WiFi-enabled with **ESP32 microcontroller**
+- Fully portable and suitable for indoor/outdoor deployment
+
+  
 🔧 1. Hardware Components
 Microcontroller: ESP8266 or ESP32 (WiFi-enabled)
 
