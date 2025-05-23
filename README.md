@@ -78,9 +78,16 @@ Push data to InfluxDB and visualize using Grafana
 
 
 📄 6. Deliverables
+
+
 Component	Status        Details
+
 Live                    Data Display	Real-time PM2.5 and CO2 on dashboard
+
 Historical Trends      	Graphs showing past data
+
 Hardware	              Fully functional air quality monitor
+
 Cloud Integration     	WiFi + ThingSpeak or Blynk
+
 Mobile/Web Dashboard	  For viewing data anytime/anywhere
